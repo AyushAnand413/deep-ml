@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:00:28.365Z",
+  "generated_at": "2026-09-28T14:00:30.748Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -222,6 +222,104 @@
       "last_pushed_at": "2026-09-19T11:21:54.744Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-20T08:49:25.608Z",
+      "last_pushed_at": "2026-09-20T08:49:25.608Z",
+      "language": "python",
+      "lines": 41
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-20T09:01:11.606Z",
+      "last_pushed_at": "2026-09-20T09:01:11.606Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-09-20T09:02:59.436Z",
+      "last_pushed_at": "2026-09-20T09:02:59.436Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-20T09:07:48.325Z",
+      "last_pushed_at": "2026-09-20T09:07:48.325Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-09-20T09:18:55.532Z",
+      "last_pushed_at": "2026-09-20T09:18:55.532Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-20T09:22:48.202Z",
+      "last_pushed_at": "2026-09-20T09:22:48.202Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-09-20T09:30:11.730Z",
+      "last_pushed_at": "2026-09-20T09:30:11.730Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-20T09:34:13.329Z",
+      "last_pushed_at": "2026-09-20T09:34:13.329Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
