@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:00:33.060Z",
+  "generated_at": "2026-09-28T14:00:35.182Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -475,6 +475,161 @@
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-09-21T19:10:52.916Z",
       "last_pushed_at": "2026-09-21T19:10:52.916Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-09-23T12:33:55.111Z",
+      "last_pushed_at": "2026-09-23T12:33:55.111Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-23T12:48:53.262Z",
+      "last_pushed_at": "2026-09-23T12:48:53.262Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-23T12:52:17.411Z",
+      "last_pushed_at": "2026-09-23T12:52:17.411Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-23T13:01:17.294Z",
+      "last_pushed_at": "2026-09-23T13:01:17.294Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-09-23T13:12:42.861Z",
+      "last_pushed_at": "2026-09-23T13:12:42.861Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-09-23T13:16:12.248Z",
+      "last_pushed_at": "2026-09-23T13:16:12.248Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-09-23T13:19:21.064Z",
+      "last_pushed_at": "2026-09-23T13:19:21.064Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-23T13:23:34.724Z",
+      "last_pushed_at": "2026-09-23T13:23:34.724Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-09-23T13:30:33.622Z",
+      "last_pushed_at": "2026-09-23T13:30:33.622Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-09-23T17:43:14.346Z",
+      "last_pushed_at": "2026-09-23T17:43:14.346Z",
+      "language": "python",
+      "lines": 32
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-09-23T18:00:22.495Z",
+      "last_pushed_at": "2026-09-23T18:00:22.495Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-09-23T18:05:18.883Z",
+      "last_pushed_at": "2026-09-23T18:05:18.883Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-09-23T18:15:50.599Z",
+      "last_pushed_at": "2026-09-23T18:15:50.599Z"
     }
   }
 }
