@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:00:37.447Z",
+  "generated_at": "2026-09-28T14:00:39.839Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -719,6 +719,84 @@
       "last_pushed_at": "2026-09-24T11:51:01.068Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:847": {
+      "kind": "problem",
+      "id": "847",
+      "title": "Dummy Classifier Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/847",
+      "path": "problems/0847-dummy-classifier-baseline",
+      "first_solved_at": "2026-09-28T13:03:43.037Z",
+      "last_pushed_at": "2026-09-28T13:03:43.037Z",
+      "language": "python",
+      "lines": 59
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-09-28T13:18:02.424Z",
+      "last_pushed_at": "2026-09-28T13:18:02.424Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-09-28T13:38:16.670Z",
+      "last_pushed_at": "2026-09-28T13:38:16.670Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-09-28T13:48:59.180Z",
+      "last_pushed_at": "2026-09-28T13:48:59.180Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-28T13:51:07.641Z",
+      "last_pushed_at": "2026-09-28T13:51:07.641Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-09-28T13:52:25.651Z",
+      "last_pushed_at": "2026-09-28T13:52:25.651Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
