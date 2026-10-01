@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 56 problems · 4 labs · 26 math
+**87** solved · 57 problems · 4 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-28 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-21 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-30 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-01 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-19 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-23 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-20 | [solution](problems/0078-descriptive-statistics-calculator) |
