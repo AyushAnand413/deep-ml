@@ -17,6 +17,6 @@ def activation(x):
     '''
     # TODO: Implement your activation function
     
-    result = np.where(x > 0, x, 0.01 * x) # Replace with your activation
+    result = np.where(x > 0, x, 0) # Replace with your activation
     
     return result
