@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:36:28.715Z",
+  "generated_at": "2026-10-08T20:43:39.980Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1339,6 +1339,19 @@
       "last_pushed_at": "2026-10-08T20:36:27.636Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2026-10-08T20:43:38.920Z",
+      "last_pushed_at": "2026-10-08T20:43:38.920Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
