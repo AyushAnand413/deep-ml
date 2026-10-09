@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:07:08.552Z",
+  "generated_at": "2026-10-09T20:13:36.840Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1521,6 +1521,19 @@
       "last_pushed_at": "2026-10-09T20:07:07.023Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1218": {
+      "kind": "problem",
+      "id": "1218",
+      "title": "Count Parameters of a Sequential Model",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1218",
+      "path": "problems/1218-count-parameters-of-a-sequential-model",
+      "first_solved_at": "2026-10-09T20:13:34.973Z",
+      "last_pushed_at": "2026-10-09T20:13:34.973Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
