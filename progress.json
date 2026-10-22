@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:27:51.812Z",
+  "generated_at": "2026-10-22T18:31:55.732Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1582,6 +1582,17 @@
       "path": "math/0129-perceptron-convergence-bound",
       "first_solved_at": "2026-10-22T18:27:51.478Z",
       "last_pushed_at": "2026-10-22T18:27:51.478Z"
+    },
+    "math:131": {
+      "kind": "math",
+      "id": "131",
+      "title": "Variance Preservation and He/Glorot Scaling",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/131",
+      "path": "math/0131-variance-preservation-and-he-glorot-scaling",
+      "first_solved_at": "2026-10-22T18:31:55.222Z",
+      "last_pushed_at": "2026-10-22T18:31:55.222Z"
     }
   }
 }
