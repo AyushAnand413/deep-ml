@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:31:55.732Z",
+  "generated_at": "2026-10-23T03:23:06.579Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1593,6 +1593,19 @@
       "path": "math/0131-variance-preservation-and-he-glorot-scaling",
       "first_solved_at": "2026-10-22T18:31:55.222Z",
       "last_pushed_at": "2026-10-22T18:31:55.222Z"
+    },
+    "problem:1076": {
+      "kind": "problem",
+      "id": "1076",
+      "title": "Backpropagation Gradients for a Dense Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1076",
+      "path": "problems/1076-backpropagation-gradients-for-a-dense-layer",
+      "first_solved_at": "2026-10-23T03:23:06.424Z",
+      "last_pushed_at": "2026-10-23T03:23:06.424Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
