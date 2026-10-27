@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 91 problems · 8 labs · 29 math
+**129** solved · 91 problems · 9 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-09-30 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-10-08 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-10-14 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-10-27 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-10-05 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
