@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:41:10.569Z",
+  "generated_at": "2026-10-29T00:44:46.292Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1669,6 +1669,19 @@
       "path": "problems/1325-your-first-gradient-with-jax-grad",
       "first_solved_at": "2026-10-29T00:41:09.327Z",
       "last_pushed_at": "2026-10-29T00:41:09.327Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1328": {
+      "kind": "problem",
+      "id": "1328",
+      "title": "Vectorizing with jax.vmap",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1328",
+      "path": "problems/1328-vectorizing-with-jax-vmap",
+      "first_solved_at": "2026-10-29T00:44:45.204Z",
+      "last_pushed_at": "2026-10-29T00:44:45.204Z",
       "language": "python",
       "lines": 11
     }
