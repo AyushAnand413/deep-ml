@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:44:46.292Z",
+  "generated_at": "2026-11-01T10:20:47.499Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1684,6 +1684,17 @@
       "last_pushed_at": "2026-10-29T00:44:45.204Z",
       "language": "python",
       "lines": 11
+    },
+    "math:132": {
+      "kind": "math",
+      "id": "132",
+      "title": "Adam Bias Correction",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/132",
+      "path": "math/0132-adam-bias-correction",
+      "first_solved_at": "2026-11-01T10:20:46.527Z",
+      "last_pushed_at": "2026-11-01T10:20:46.527Z"
     }
   }
 }
